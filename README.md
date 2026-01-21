@@ -48,7 +48,7 @@ README File
 
 • **17-Jan-2026 (Saturday)**:Completed Week 2. Reordered Repo.
 
+• **21-Jan-2026 (Wednesday)**:Studied OOPS concept.
 
 
-# • 11-Jan-2026 (Sunday): Practiced Programming Elements and solved related Java problems.
 

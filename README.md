@@ -50,5 +50,8 @@ README File
 
 • **21-Jan-2026 (Wednesday)**:Studied OOPS concept.
 
+• **22-Jan-2026 (Wednesday)**:completed datastructure programs.
+
+
 
 

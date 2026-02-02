@@ -52,6 +52,22 @@ README File
 
 • **22-Jan-2026 (Wednesday)**:completed datastructure programs.
 
+• **23-Jan-2026 (Friday)**: completed creating and pushing coding files to the new repository OOPSBannerApp.
+
+• **24-Jan-2026 (Saturday)**: added single-line and multi-line comments to the code in OOPSBannerApp.
+
+• **27-Jan-2026 (Tuesday)**: completed Week 4 Day 1 coding problems.
+
+• **28-Jan-2026 (Wednesday)**: completed Week 4 Day 2 coding problems.
+
+• **29-Jan-2026 (Thursday)**: completed console-based assignment – Factory Robot Hazard Analyzer.
+
+• **30-Jan-2026 (Friday)**: attended review session on Data Structures and Algorithms.
+
+• **31-Jan-2026 (Saturday)**: completed and uploaded Week 4 Day 3 practice problems to GitHub.
+
+• **02-Feb-2026 (Monday)**: completed and uploaded Week 4 Day 4 practice problems to GitHub.
+
 
 
 

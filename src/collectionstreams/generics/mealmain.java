@@ -1,3 +1,4 @@
+package collectionstreams.generics;
 /*
     Program Name : Personalized Meal Plan Generator
 

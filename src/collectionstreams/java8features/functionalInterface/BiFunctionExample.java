@@ -1,5 +1,4 @@
-package javacollectionsstream.java8features.day7FunctionalInterface;
-
+package collectionstreams.java8features.functionalInterface;
 import java.util.function.BiFunction;
 
 public class BiFunctionExample {

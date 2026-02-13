@@ -1,5 +1,4 @@
-package javacollectionsstream.java8features.java8feature;
-
+package collectionstreams.java8features.java8feature;
 import java.util.*;
 import java.util.stream.Collectors;
 
@@ -70,6 +69,7 @@ class ProductSales {
     public ProductSales(int productId, double totalRevenue) {
         this.productId = productId;
         this.totalRevenue = totalRevenue;
+
     }
 
     public double getTotalRevenue() {
@@ -81,3 +81,4 @@ class ProductSales {
         return "ProductId=" + productId + ", Revenue=" + totalRevenue;
     }
 }
+

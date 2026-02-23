@@ -1,4 +1,4 @@
-package datastructures.graphandtrees;
+package datastructure.graphandtrees;
 import java.util.Scanner;
 
 // Class to count leaf nodes in a binary tree

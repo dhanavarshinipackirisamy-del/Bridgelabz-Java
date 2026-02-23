@@ -1,4 +1,4 @@
-package datastructures.graphandtrees;
+package datastructure.graphandtrees;
 import java.util.*;
 
 // Dijkstra shortest path class

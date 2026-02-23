@@ -1,4 +1,4 @@
-package datastructures.graphandtrees;
+package datastructure.graphandtrees;
 
 // Find height of a binary tree
 class BinaryTree {

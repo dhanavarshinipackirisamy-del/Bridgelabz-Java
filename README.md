@@ -74,3 +74,90 @@ README File
 
 • **05-Feb-2026 (Thursday)**: completed and uploaded Week 4 Day 6 Java 8 features practice problems to GitHub.
 
+• **06-Feb-2026 (Friday)**: completed week 5 day 1 practice problems.
+
+• **07-Feb-2026 (Saturday)**: attended power skills session.
+
+• **09-Feb-2026 (Monday)**: completed week 5 day 2 practice problems.
+
+• **10-Feb-2026 (Tuesday)**: attended weekly review on java generics and collections.
+
+• **11-Feb-2026 (Wednesday)**: completed oceanfleetapp.
+
+• **12-Feb-2026 (Thursday)**: completed remaining oceanfleetapp use cases.
+
+• **13-Feb-2026 (Friday)**: completed week 5 practice problems and uploaded to github.
+
+• **14-Feb-2026 (Saturday)**: attended power skills training, revised basic grammar and professional email writing.
+
+• **16-Feb-2026 (Monday)**: completed problems on trees and graphs and uploaded coding files to github.
+
+• **17-Feb-2026 (Tuesday)**: attended review on java 8 features.
+
+• **18-Feb-2026 (Wednesday)**: worked on hackerrank problems.
+
+• **19-Feb-2026 (Thursday)**: worked on hackerrank problems.
+
+• **20-Feb-2026 (Friday)**: completed problems on annotation and design pattern and uploaded the code to github.
+
+• **21-Feb-2026 (Saturday)**: attended power skills session.
+
+• **23-Feb-2026 (Monday)**: completed code for quantity measurement app.
+
+• **24-Feb-2026 (Tuesday)**: installed and set up mysql server.
+
+• **25-Feb-2026 (Wednesday)**: added work to checklist and completed week 6 day 2 and day 3 sql queries.
+
+• **26-Feb-2026 (Thursday)**: worked on unit-to-unit conversion use case in quantity measurement app.
+
+• **27-Feb-2026 (Friday)**: created jdbc maven project, added mysql connector dependency, and implemented basic crud operations using jdbc.
+
+• **28-Feb-2026 (Saturday)**: attended soft skill and completed quantity measurement app up to use case 8, including unit refactoring and addition operations, ensuring clean structure and best practices.
+
+• **02-Mar-2026 (Monday)**: worked on generic quantity class, jdbc transactions and practiced transaction handling concepts.
+
+• **03-Mar-2026 (Tuesday)**: completed advanced use cases (uc11–uc14) of quantity measurement app including volume, arithmetic operations, and refactoring.
+
+• **04-Mar-2026 (Wednesday)**: worked on json data handling concepts and completed related assignment.
+
+• **05-Mar-2026 (Thursday)**: learned tomcat servlet and completed servlet assignment.
+
+• **06-Mar-2026 (Friday)**: completed uc13–uc14 and updated it to github repository "quantity-measurement-app".
+
+• **07-Mar-2026 (Saturday)**: delivered a professional presentation on adaptive learning during power skills training.
+
+• **09-Mar-2026 (Monday)**: started spring framework and completed spring intro setup and assignment.
+
+• **10-Mar-2026 (Tuesday)**: completed assignment on tomcat servlet and pushed the code to github repository "tomcatservlet".
+
+• **11-Mar-2026 (Wednesday)**: completed greeting app using spring boot (uc1–uc8) and tested all apis using postman.
+
+• **12-Mar-2026 (Thursday)**: completed assignment on spring rest api and pushed the code to github repository "springboothelloapp".
+
+• **13-Mar-2026 (Friday)**: completed assignment on spring framework and pushed the code to github repository "springboothelloapp".
+
+• **14-Mar-2026 (Saturday)**: attended soft skills session.
+
+• **16-Mar-2026 (Monday)**: attended review for spring boot applications.
+
+• **17-Mar-2026 (Tuesday)**: worked on spring framework multi-layer development with h2 database and completed assignment.
+
+• **18-Mar-2026 (Wednesday)**: attended m1 mock exam and noted the reviews provided by mentors for improvement.
+
+• **19-Mar-2026 (Thursday)**: started working on employee payroll app and pushed uc1–uc3 code to github repository "employee-payroll-springboot".
+
+• **20-Mar-2026 (Friday)**: implemented service layer in spring employee payroll app and completed related assignment.
+
+• **21-Mar-2026 (Saturday)**: started working on employee payroll app and pushed uc7–uc9 code to github repository "employee-payroll-springboot".
+
+• **23-Mar-2026 (Monday)**: prepared for main m1 exam.
+
+• **24-Mar-2026 (Tuesday)**: attended m1 exam.
+
+• **25-Mar-2026 (Wednesday)**: prepared for spring and spring boot review, completed pending assignments and checklist verification.
+
+• **26-Mar-2026 (Thursday)**: started spring employee payroll app with mysql repository and service, configured project structure and initial setup.
+
+• **27-Mar-2026 (Friday)**: started working on address book app and pushed code to github repository.
+
+

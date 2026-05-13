@@ -186,4 +186,53 @@ README File
 
 • **13-Apr-2026 (Monday)**: Started learning RabbitMQ, Spring Batch, Excel integration, and Microservices concepts.
 
+• **14-Apr-2026 (Tuesday))** : Started learning Redis concepts for Microservices.
 
+• **15-Apr-2026 (Wednesday)**: Continued learning Redis concepts and practical use cases in Microservices.
+
+• **16-Apr-2026 (Thursday)**: Covered important Microservices concepts and completed the basic setup for an E-Commerce application using Microservices.
+
+• **17-Apr-2026 (Friday)**: Started working on the Book Store Microservices project and completed infrastructure services including Netflix Eureka, Spring Cloud Config, and Spring Cloud Gateway.
+
+• **18-Apr-2026 (Saturday)**: Attended Power Skills training and revised presentation fundamentals and communication rules.
+
+• **20-Apr-2026 (Monday)**: Completed infrastructure services and started working on the Admin Service.
+
+• **21-Apr-2026 (Tuesday)**: Completed the Admin Service and started working on Common Library and User Service.
+
+• **22-Apr-2026 (Wednesday)**: Completed Common Library and User Service and started working on Cart Service and Customer Service.
+
+• **23-Apr-2026 (Thursday)**: Completed Cart Service and Customer Service and started working on Order Service and Product Service.
+
+• **24-Apr-2026 (Friday)**: Completed Order Service and Product Service and started working on Notification Service.
+
+• **25-Apr-2026 (Saturday)**: Attended Power Skills training and revised presentation fundamentals and communication rules.
+
+• **27-Apr-2026 (Monday)**: Completed Notification Service and started working on Wishlist Service and Feedback Service.
+
+• **28-Apr-2026 (Tuesday)**: Completed all infrastructure services and verified that all API endpoints were functioning correctly.
+
+• **29-Apr-2026 (Wednesday)**: Tested all API endpoints and pushed the complete Book Store E-Commerce Microservices project to GitHub
+ in a repository named bookstore-microservices.
+ 
+• **30-Apr-2026 (Thursday)**: Started learning Cloud Computing and Amazon Web Services (AWS)
+
+• **02-May-2026 (Saturday)**: Attended Power Skills training and revised presentation fundamentals and communication rules.
+
+• **04-May-2026 (Monday)**: Learned concepts of Docker
+
+• **05-May-2026 (Tuesday)**: Attempted to deploy the previously built Greeting Application using AWS and Docker.
+
+• **06-May-2026 (Wednesday)**: Started working on the group project Stock Portfolio Monitoring Application and worked on User Service.
+
+• **07-May-2026 (Thursday)**: Completed User Service and tested all API endpoints.
+
+• **08-May-2026 (Friday)**: Completed Notification Service and tested all API endpoints.
+
+• **09-May-2026 (Saturday)**: Attended recap session for Soft Skills.
+
+• **11-May-2026 (Monday)**: Pushed User Service to the common GitHub repository maintained by the team lead and created Pull Requests for services.
+
+• **12-May-2026 (Tuesday)**: Worked on deploying the completed Stock Portfolio Monitoring Application.
+
+• **13-May-2026 (Wednesday)**: Attended a Spring Boot review session with the mentor and cross-verified that all GitHub repositories and folder structures were properly organized.
